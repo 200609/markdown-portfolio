@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- 土豆
+- 番茄
+- 西瓜
+  - 还有什么呢
+1. 猕猴桃
+2. 哈密瓜
+3. 火龙果
+
+:smile:
