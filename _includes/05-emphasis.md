@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**不在沉默中爆发，就在沉默中灭亡。** --*周树人*
